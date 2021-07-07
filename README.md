@@ -20,7 +20,7 @@
 
 
 
-- 🔭 I’m currently doing an internship at [Paper.id](https://paper.id/).   
+- 🔭 I’m currently working at [Bibit.id](https://bibit.id/).   
 - 📫 How to reach me: [instagram - @muhidayat03](https://instagram.com/muhidayat03)
 - ⚡ Fun fact: I am left-handed
  
