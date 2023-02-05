@@ -20,7 +20,7 @@
 
 
 
-- 🔭 I’m currently working at [Bibit.id](https://bibit.id/).   
+- 🔭 I’m currently building [Nikaah.id](https://nikaah.id/).   
 - 📫 How to reach me: [instagram - @muhidayat03](https://instagram.com/muhidayat03)
 - ⚡ Fun fact: I am left-handed
  
